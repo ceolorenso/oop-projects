@@ -21,6 +21,7 @@ public:
     int get_watched() const;
     // display private members
     void display_members() const;
+    // setter function, increments watched by 1 when called
+    void increment_watched();
 };
-
 #endif
