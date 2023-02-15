@@ -1,3 +1,5 @@
+> Been working on some maths and move constructors & other oop concepts. I will try optimize the program after I get the grasp of them.
+
 # movies-tracker
 The foundation for a program for movie fanatics to keep track of what movies they have watched
 and how many times they watched each movie.
